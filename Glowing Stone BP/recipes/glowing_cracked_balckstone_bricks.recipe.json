@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "glowing:cracked_blackstone_brick"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "   ",
+        " #X",
+        " X#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:glow_ink_sac"
+        },
+        "X": {
+          "item": "minecraft:cracked_polished_blackstone_bricks"
+        }
+      },
+      "unlock": [
+        {
+          "item": "glowing:cracked_blackstone_brick"
+        }
+      ],
+      "result": {
+        "item": "glowing:cracked_blackstone_brick",
+        "count": 4
+      }
+    }
+  }

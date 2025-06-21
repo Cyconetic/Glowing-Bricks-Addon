@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Glowing Stone",
+		"description": "Adds Glowing Stone to Minecraft",
+		"uuid": "cbe64bfd-80e8-4e18-bf33-01e50f02d707",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "7e671ec4-8557-48db-8fde-6b4ec12edbd4",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "674a3c86-7167-4075-9248-6fb371f7fb09",
+			"version": [1, 0, 0]
+		}
+	]
+}

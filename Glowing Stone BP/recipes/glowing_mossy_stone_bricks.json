@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "glowing:mossy_stone_brick"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "   ",
+        " #X",
+        " X#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:glow_ink_sac"
+        },
+        "X": {
+          "item": "minecraft:mossy_stone_bricks"
+        }
+      },
+      "unlock": [
+        {
+          "item": "glowing:mossy_stone_brick"
+        }
+      ],
+      "result": {
+        "item": "glowing:mossy_stone_brick",
+        "count": 4
+      }
+    }
+  }

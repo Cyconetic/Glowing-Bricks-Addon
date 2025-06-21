@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "glowing:mud_brick"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "   ",
+        " #X",
+        " X#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:glow_ink_sac"
+        },
+        "X": {
+          "item": "minecraft:mud_bricks"
+        }
+      },
+      "unlock": [
+        {
+          "item": "glowing:mud_brick"
+        }
+      ],
+      "result": {
+        "item": "glowing:mud_brick",
+        "count": 4
+      }
+    }
+  }
