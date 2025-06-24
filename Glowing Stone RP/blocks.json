@@ -1,0 +1,67 @@
+{
+    "format_version": "1.20.10",
+    "glowing:stone_brick": {
+        "sound": "stone",
+        "textures": "glowing_stone_brick"
+    },
+    "glowing:mossy_stone_brick": {
+        "sound": "stone",
+        "textures": "glowing_mossy_stone_brick"
+    },
+    "glowing:cracked_stone_brick": {
+        "sound": "stone",
+        "textures": "glowing_cracked_stone_brick"
+    },
+    "glowing:deepslate_brick": {
+        "sound": "deepslate",
+        "textures": "glowing_deepslate_brick"
+    },
+    "glowing:cracked_deepslate_brick": {
+        "sound": "deepslate",
+        "textures": "glowing_cracked_deepslate_brick"
+    },
+    "glowing:tuff_brick": {
+    "sound": "tuff",
+    "textures": "glowing_tuff_brick"
+    },
+    "glowing:mud_brick": {
+        "sound": "mud",
+        "textures": "glowing_mud_brick"
+    },
+    "glowing:blackstone_brick": {
+        "sound": "blackstone",
+        "textures": "glowing_blackstone_brick"
+    },
+    "glowing:cracked_blackstone_brick": {
+        "sound": "blackstone",
+        "textures": "glowing_cracked_blackstone_brick"
+    },
+    "glowing:quartz_brick": {
+        "sound": "quartz",
+        "textures": "glowing_quartz_brick"
+    },
+    "glowing:end_brick": {
+        "sound": "stone",
+        "textures": "glowing_end_brick"
+    },
+    "glowing:purpur_brick": {
+        "sound": "stone",
+        "textures": "glowing_purpur_brick"
+    },
+    "glowing:nether_brick": {
+        "sound": "stone",
+        "textures": "glowing_nether_brick"
+    },
+    "glowing:cracked_nether_brick": {
+        "sound": "stone",
+        "textures": "glowing_cracked_nether_brick"
+    },
+    "glowing:red_nether_brick": {
+        "sound": "stone",
+        "textures": "glowing_red_nether_brick"
+    },
+    "glowing:prismarine_brick": {
+        "sound": "stone",
+        "textures": "glowing_prismarine_brick"
+    }
+}

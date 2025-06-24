@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "glowing:red_nether_brick"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "XXX",
+        "X#X",
+        "XXX"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:glow_ink_sac"
+        },
+        "X": {
+          "item": "minecraft:red_nether_brick"
+        }
+      },
+      "unlock": [
+        {
+          "item": "glowing:red_nether_brick"
+        }
+      ],
+      "result": {
+        "item": "glowing:red_nether_brick",
+        "count": 8
+      }
+    }
+  }

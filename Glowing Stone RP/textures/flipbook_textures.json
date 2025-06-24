@@ -1,0 +1,9 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/glowing_prismarine_brick",
+        "atlas_tile": "glowing_prismarine_brick",
+        "frames": [ 0, 1, 0],
+        "blend_frames": true,
+        "ticks_per_frame": 120
+    }
+]
